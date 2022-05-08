@@ -41,11 +41,3 @@ function montaTela(json){
    q('.resultado').style.display = 'block';
 }
 
-
-// json.name
-// json.sys.country
-// json.main.temp
-// json.weather[0].icon
-// json.weather[0].description
-// json.wind.speed
-// json.wind.deg
